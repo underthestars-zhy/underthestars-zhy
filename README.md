@@ -1,16 +1,22 @@
-### Hi there 👋
+<h3 align="center"> Hello, nice to meet you! &nbsp;  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
+<p align="center">iOS software developer</p>
 
-<!--
-**underthestars-zhy/underthestars-zhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a student from **China Zhejiang Hangzhou**.
+- Self-learning programming.
 
-Here are some ideas to get you started:
+#### My Project
+- :zap: EveryCheck (Private)
+- :computer: MacOS Plugins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Skill
+```text
+Python           ███████████████░░░░░░░░░░
+UI Design        ████████████████████░░░░░
+Swift            ██████████░░░░░░░░░░░░░░░
+GoLang           ██░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+#### Contact ME
+- Wechat: apple_chairman
+- QQ: 2691448414
+- Email: zhuhaoyu0909@icloud.com
