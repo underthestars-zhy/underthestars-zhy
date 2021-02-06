@@ -3,7 +3,7 @@
 <br>
 
 #### About Me
-- I'm a student from **China Zhejiang Hangzhou**.
+- I come from **China Zhejiang Hangzhou**.
 - Self-learning programming.
 
 #### My Project
