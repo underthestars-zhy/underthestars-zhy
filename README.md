@@ -9,6 +9,7 @@
 #### My Project
 - :zap: EveryCheck (Private)
 - :computer: MacOS Plugins
+- :rocket: You can download my app with this url : https://testflight.apple.com/join/bu7v8zJR
 
 #### My Skill
 ```text
