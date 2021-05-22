@@ -7,6 +7,10 @@
 - Self-learning programming.
 
 #### My Project
+- :computer: Slowly
+- :zap: EveryLog
+- :zap: EveryLearn (Private)
+- :zap: EveryML (Private)
 - :zap: EveryCheck (Private)
 - :computer: MacOS Plugins
 - :rocket: You can download my app with this url : https://testflight.apple.com/join/bu7v8zJR
