@@ -8,12 +8,9 @@
 
 #### My Project
 - :computer: Slowly
-- :zap: EveryLog
-- :zap: EveryLearn (Private)
-- :zap: EveryML (Private)
-- :zap: EveryCheck (Private)
-- :computer: MacOS Plugins
-- :rocket: You can download my app with this url : https://testflight.apple.com/join/bu7v8zJR
+- :zap: Slowly
+- :zap: JustDict
+- :zap: Friendly (Private)
 
 #### My Skill
 ```text
@@ -30,3 +27,4 @@ UI Design        ████████████████████░
 - Wechat: apple_chairman
 - QQ: 2691448414
 - Email: zhuhaoyu0909@icloud.com
+- Discord: ZHYuts#5407
