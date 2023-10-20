@@ -3,8 +3,7 @@
 <br>
 
 #### About Me
-- I come from **China Zhejiang Hangzhou**.
-- Self-learning programming.
+- Apple Platform Developer.
 - Designer
 - Artist
 
