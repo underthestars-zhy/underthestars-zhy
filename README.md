@@ -23,7 +23,5 @@ UI Design        ████████████████████░
 ```
 
 #### Contact ME
-- Wechat: apple_chairman
-- QQ: 2691448414
-- Email: zhuhaoyu0909@icloud.com
-- Discord: ZHYuts#5407
+- Email: ryan@photon.codes
+- Discord: .ryanzhuuuu
